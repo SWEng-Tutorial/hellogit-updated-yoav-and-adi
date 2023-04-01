@@ -11,7 +11,7 @@
 
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Its Yoav ! ! !"
+		   text="It's Yoav ! ! !"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
@@ -20,7 +20,7 @@
 	</Label>
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Put your name here ! ! !"
+		   text="It's Adi ! ! ! ! !"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
