@@ -20,7 +20,7 @@
 	</Label>
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="It's Adi ! ! !"
+		   text="It's Adi ! ! ! !"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
